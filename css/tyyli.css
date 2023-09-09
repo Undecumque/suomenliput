@@ -7,12 +7,12 @@ body {
 #lainaus {
     font-style: italic;
     margin-left: 60px;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 #otto {
     margin-left: 100px;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 img {
@@ -23,7 +23,7 @@ img {
 }
 p{
     margin-left: 20px;
-    max-width: 800px;
+    max-width: 900px;
 }
 
 hr{
