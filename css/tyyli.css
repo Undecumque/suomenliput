@@ -1,0 +1,51 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif, Verdana, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#lainaus {
+    font-style: italic;
+    margin-left: 60px;
+    max-width: 800px;
+}
+
+#otto {
+    margin-left: 100px;
+    max-width: 600px;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+    max-width: 1000px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.rivi {
+    font-style: italic;
+    display: flex;
+    align=center;
+    margin-right: 150px;
+}
+.sarake {
+    margin: 30px;
+
+}
+
+#yksityiset {
+    margin-left: 20px;
+}
+
