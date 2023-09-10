@@ -22,15 +22,18 @@ hr{
 li{
     margin-bottom: 10px;
 }
-#lainaus {
+
+.lainaus {
     font-style: italic;
     margin-left: 60px;
     max-width: 700px;
 }
 
-#otto {
+
+.otto {
     margin-left: 100px;
     max-width: 700px;
+    font-style: italic;
 }
 
 #linkit {
@@ -38,7 +41,7 @@ li{
     font-size: medium;
     margin-left: 50px;
 }
-#yksityiset {
+.yksityiset {
     margin-left: 20px;
 }
 
