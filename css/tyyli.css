@@ -59,3 +59,14 @@ li{
     box-sizing: border-box;
     width: 800px;
 }
+
+.piilo {
+    display: none;
+}
+
+
+
+.hover:hover + .piilo {
+    display: block;
+    color: red;
+}
