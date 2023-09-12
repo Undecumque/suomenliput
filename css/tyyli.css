@@ -2,7 +2,7 @@ body {
     background-color: beige;
     font-family: "Times New Roman", sans-serif, Verdana, sans-serif;
     margin-left: 200px;
-    margin-right: 100px;
+    max-width: 900px;
 }
 img {
     margin-top: 20px;
