@@ -1,6 +1,6 @@
 body {
     background-color: beige;
-    font-family: Arial, sans-serif, Verdana, sans-serif;
+    font-family: "Times New Roman", sans-serif, Verdana, sans-serif;
     margin-left: 200px;
     margin-right: 100px;
 }
@@ -17,10 +17,6 @@ p{
 hr{
     margin-top: 20px;
     margin-bottom: 60px;
-}
-
-li{
-    margin-bottom: 10px;
 }
 
 .lainaus {
@@ -60,13 +56,6 @@ li{
     width: 800px;
 }
 
-.piilo {
-    display: none;
-}
-
-
-
-.hover:hover + .piilo {
-    display: block;
-    color: red;
+.oikea {
+    float: right;
 }
