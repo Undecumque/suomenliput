@@ -59,3 +59,23 @@ hr{
 .oikea {
     float: right;
 }
+
+.etusivun_kuvat {
+    position: relative;   /* This makes the container a reference for absolutely positioned child elements */
+    width: desired-width; /* Set to the width of your images, e.g., 300px */
+    height: desired-height; /* Set to the height of your images, e.g., 200px */
+}
+
+.yla {
+    display: block;
+    height: 400px;
+    z-index: 1;
+}
+
+.ala {
+    position: absolute;
+    height: 400px;
+
+    top: -20px;
+    left: 280px;
+}
