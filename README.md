@@ -1,6 +1,5 @@
-<img src="img/1920_kartonki_valtio_pieni.jpg" style="width: 100px;"><img src="img/1863_topelius_kirje.jpg" style="width: 100px;">
+<img src="img/1920_kartonki_valtio_pieni.jpg" style="width: 100px;"><img src="img/1863_dagbladet.jpg" style="width: 100px;"><img src="img/1863_topelius_kirje.jpg" style="width: 100px;">
 <img src="img/sorto_satakunta.jpg" style="width: 100px;">
-<img src="img/1863_dagbladet.jpg" style="width: 100px;">
 <img src="img/sorto_pekkala.jpg" style="width: 100px;">
 <img src="img/1917_helsingin_suomalainen_seura" style="width: 100px;"> <br><br>
 Harrasteprojekti Suomen lipun historiasta. <br>
