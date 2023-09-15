@@ -81,3 +81,8 @@ hr{
     position: absolute;
     text-align: center;
 }
+
+.etusivu_linkki{
+    color: blue;
+    text-decoration-line: none;
+}
