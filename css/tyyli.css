@@ -63,20 +63,7 @@ hr{
 .etusivun_kuvat {
 
     position: relative;
-}
-
-.yla {
-    display: block;
-    height: 400px;
-    z-index: 1;
-}
-
-.ala {
-    position: absolute;
-    height: 400px;
-
-    top: -20px;
-    left: 280px;
+    text-align: center;
 }
 
 .kuvat{
@@ -87,4 +74,10 @@ hr{
     margin-left: 30px;
     font-style: italic;
     font-size: smaller;
+}
+
+.linkkiteksti{
+    font-size: x-large;
+    position: absolute;
+    text-align: center;
 }
