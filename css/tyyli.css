@@ -85,5 +85,6 @@ hr{
 
 .kuvateksti {
     margin-left: 30px;
-    font-style: italic
+    font-style: italic;
+    font-size: smaller;
 }
