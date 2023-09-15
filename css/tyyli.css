@@ -78,3 +78,12 @@ hr{
     top: -20px;
     left: 280px;
 }
+
+.kuvat{
+    display: flex;
+}
+
+.kuvateksti {
+    margin-left: 30px;
+    font-style: italic
+}
