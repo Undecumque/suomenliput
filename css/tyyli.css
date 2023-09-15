@@ -86,3 +86,8 @@ hr{
     color: blue;
     text-decoration-line: none;
 }
+
+.etusivu_linkki:link{
+    text-decoration: none;
+    color: black;
+}
