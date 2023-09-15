@@ -3,6 +3,6 @@
 <img src="img/1917_helsingin_suomalainen_seura.jpg" style="height: 80px;"> 
 <img src="img/sorto_pekkala.jpg" style="height: 80px;"> <br><br>
 
-Harrasteprojekti Suomen lippuhistoriasta 1863-> <br>
-Hobbyproject over the history of flags in Finland from 1863-> <br><br>
+Harrasteprojekti Suomen lippuhistoriasta
+Hobbyproject over the history of flags in Finland<br><br>
 tornisteri (ät) pm (piste) me
