@@ -10,7 +10,7 @@ body {
 }
 
 p {
-    max-width: 800px;
+    max-width: 1000px;
 }
 
 hr{
@@ -88,9 +88,10 @@ hr{
 
 .linkkiteksti{
     font-size: x-large;
-    position: absolute;
-    text-align: center;
-    line-height: 100%;
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+
 }
 
 .etusivu_linkki{
@@ -101,4 +102,20 @@ hr{
 .etusivu_linkki:link{
     text-decoration: none;
     color: black;
+}
+
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+
+}
+
+.overlay-text {
+    font-size: x-large;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
 }
