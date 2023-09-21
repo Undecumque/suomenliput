@@ -1,17 +1,16 @@
 body {
     background-color: beige;
     font-family: "Times New Roman", sans-serif, Verdana, sans-serif;
-    margin-left: 200px;
-    max-width: 900px;
+    font-size:16px;
+    margin:2em auto;
+    max-width:1000px;
+    padding:1em;
+    line-height:1.4;
+    text-align: justify;
 }
-img {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;    
-}
-p{
-    margin-left: 20px;
-    max-width: 900px;
+
+p {
+    max-width: 800px;
 }
 
 hr{
@@ -21,8 +20,8 @@ hr{
 
 .lainaus {
     font-style: italic;
-    margin-left: 60px;
     max-width: 700px;
+    margin-left: 70px;
 }
 
 
@@ -36,9 +35,6 @@ hr{
     font-family: "Times New Roman", serif;
     font-size: medium;
     margin-left: 50px;
-}
-.yksityiset {
-    margin-left: 20px;
 }
 
 .lakiteksti {
@@ -66,12 +62,26 @@ hr{
     text-align: center;
 }
 
-.kuvat{
+.kuvat {
+
     display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: left;
 }
 
+.kuvat img  {
+    max-height: 200px;
+}
+
+.kuvat figure {
+    margin: 0;
+    padding: 0;
+}
+
+
 .kuvateksti {
-    margin-left: 30px;
+    margin-left: 10px;
     font-style: italic;
     font-size: smaller;
 }
@@ -80,6 +90,7 @@ hr{
     font-size: x-large;
     position: absolute;
     text-align: center;
+    line-height: 100%;
 }
 
 .etusivu_linkki{
