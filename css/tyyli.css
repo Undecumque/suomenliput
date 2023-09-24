@@ -13,10 +13,11 @@ p {
     max-width: 1000px;
 }
 
-hr{
+hr {
     margin-top: 20px;
     margin-bottom: 60px;
 }
+
 
 .lainaus {
     font-style: italic;
@@ -118,4 +119,58 @@ hr{
     text-align: center;
     transform: translate(-50%, -50%);
     text-decoration: none;
+}
+
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+
+    float: left;
+    color: sienna;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.topnav a:hover {
+    color: black;
+    transform: scale(1.0588);
+    display: inline-block;
+    transition: transform 0.2s ease-in-out;
+}
+
+.palkki {
+    margin-left: -80px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    border-bottom: 1px solid black;
+}
+
+nav ul li a::before {
+    content: '⇛';
+    visibility: hidden;
+    margin-right: 5px;
+}
+
+nav ul li a:hover::before {
+    visibility: visible;
+}
+
+.sisalto {
+    margin-left: -50px;
 }
